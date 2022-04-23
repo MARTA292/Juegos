@@ -26,3 +26,4 @@ https://parzibyte.me/blog/2018/11/05/juego-serpiente-javascript-version-2/
        poner un premio grande
 
 Eso lo haré algún día que tenga tiempo o esté aburrido :) aunque eres libre de modificar el código a tu antojo.
+En Python está https://github.com/PedroHigueraG/Snake
